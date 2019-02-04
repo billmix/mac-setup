@@ -56,6 +56,12 @@ sudo spctl --master-disable
 brew install mas
 ```
 
+### Homebrew formulae
+
+```shell
+brew install $(cat packages.txt)
+```
+
 #### Sign in
 
 ```shell
