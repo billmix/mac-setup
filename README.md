@@ -74,21 +74,32 @@ tap 'caskroom/cask'
 brew 'git'
 brew 'npm'
 
-cask 'visual-studio-code'
 cask 'firefox'
-cask 'gimp'
 cask 'google-chrome'
-cask 'opera'
-cask 'spectacle'
-cask 'sequel-pro'
-cask 'utorrent'
 cask 'vlc'
 cask 'macdown'
+cask 'sublime-text'
+cask 'atom'
+cask 'cloud-app'
+cask 'dropbox'
+cask 'github-desktop'
+cask 'tunnelbear'
+cask 'rocket'
+cask 'loopback'
+cask '1password'
+cask 'adobe-creative-cloud'
+cask 'meta'
+cask 'mjml'
+cask 'skype'
+cask 'spotify'
+cask 'zoom'
+
 
 mas 'Slack', id: 803453959
-mas 'Sip', id: 507257563 
-mas 'Simplenote', id: 692867256 
-mas 'Todoist', id: 585829637
+mas 'Transmit 5', id: 1436522307
+mas 'Wunderlist', id: 410628904
+mas 'evernote', id: 406056744
+
 ```
 
 ## GitHub
@@ -191,6 +202,7 @@ nvm install node --reinstall-packages-from=node
 
 ```shell
 npm install --global gulp-cli
+npm install -g ember-cli
 ```
 
 ## Ruby Version Manager
@@ -221,3 +233,10 @@ gem install bundler
 curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 ```
+
+
+## Other Apps
+
+Wordle
+
+
