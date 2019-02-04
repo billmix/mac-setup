@@ -93,6 +93,8 @@ cask 'mjml'
 cask 'skype'
 cask 'spotify'
 cask 'zoom'
+cask 'chrome-remote-desktop-host'
+
 
 
 mas 'Slack', id: 803453959
