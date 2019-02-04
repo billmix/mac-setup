@@ -100,8 +100,7 @@ cask 'skype'
 cask 'spotify'
 cask 'zoom'
 cask 'chrome-remote-desktop-host'
-
-
+cask 'mpeg-streamclip'
 
 mas 'Slack', id: 803453959
 mas 'Transmit 5', id: 1436522307
