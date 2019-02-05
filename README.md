@@ -106,6 +106,7 @@ mas 'Slack', id: 803453959
 mas 'Transmit 5', id: 1436522307
 mas 'Wunderlist', id: 410628904
 mas 'evernote', id: 406056744
+mas 'Day One', id: 1055511498
 
 ```
 
