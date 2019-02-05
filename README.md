@@ -241,7 +241,11 @@ gem install bundler
 curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 ```
+## Install shopify theme editor
 
+```shell
+curl -s https://raw.githubusercontent.com/Shopify/themekit/master/scripts/install | sudo python
+```
 
 ## Other Apps
 
